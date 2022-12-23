@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.box{
+    width: 960px;
+    height: 500px;
+    margin: 200px;
+    background: blueviolet;
+  
+}
+.box1{
+    width: 600px;
+    height: 305px;
+    margin-top: -580px;
+    margin-left: 370px;
+    background: url('Ncell.webp');
+    border-radius: 0px 80px 0px 80px;
+}
